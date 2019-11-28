@@ -3,9 +3,6 @@ echo "Hoeveel vrienden zal ik vragen om hun droom?" . PHP_EOL;
 
 $number = readline(">");
 
-
-
-
 if (is_numeric($number)){
 
 }else {
